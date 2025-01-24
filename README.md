@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # currency
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Currency-Convertor
+>>>>>>> ca6f84e61efa1fcad32801df45d5b0dd315fee60
